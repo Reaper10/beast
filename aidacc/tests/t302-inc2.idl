@@ -1,3 +1,0 @@
-namespace IncludeFailure {
-  unexisting_var var;
-};
